@@ -20,3 +20,8 @@
  ![Tux, the Linux mascot](/assets/logo/c.png)
  ![Tux, the Linux mascot](/assets/logo/css.svg)
  ![Tux, the Linux mascot](/assets/logo/html.svg)
+
+ ### Current Overview
+ 👋 Hello, I am- MERN Stack Web Devloper
+ 🌱 I'm Currently Exploring - Redux
+ 🤝 Open to Collaboration- Any MERN Stack Projects & Machine Learning Projects 
