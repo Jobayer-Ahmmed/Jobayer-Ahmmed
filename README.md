@@ -23,5 +23,7 @@
 
  ### Current Overview
  👋 Hello, I am- MERN Stack Web Devloper
- 🌱 I'm Currently Exploring - Redux
- 🤝 Open to Collaboration- Any MERN Stack Projects & Machine Learning Projects 
+
+🌱 I'm Currently Exploring - Redux
+ 
+🤝 Open to Collaboration- Any MERN Stack Projects & Machine Learning Projects 
