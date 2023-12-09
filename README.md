@@ -18,3 +18,5 @@
  ![Tux, the Linux mascot](/assets/logo/mongoose.svg)
  ![Tux, the Linux mascot](/assets/logo/node.svg)
  ![Tux, the Linux mascot](/assets/logo/c.png)
+ ![Tux, the Linux mascot](/assets/logo/css.svg)
+ ![Tux, the Linux mascot](/assets/logo/html.svg)
