@@ -10,4 +10,6 @@
 [ ![Tux, the Linux mascot](/assets/logo/linkedin.svg)](https://www.linkedin.com/in/jobayer-ahmmed-5051b926b)[ ![Tux, the Linux mascot](/assets/logo/facebook.svg)](https://web.facebook.com/jobayer.ahmmed.jas)
 
 ### Technology That I know
- ![Tux, the Linux mascot](/assets/logo/react.svg)
+ ![Tux, the Linux mascot](/assets/logo/react-js.svg)
+ ![Tux, the Linux mascot](/assets/logo/javascript.svg)
+ ![Tux, the Linux mascot](/assets/logo/react-js.svg)
