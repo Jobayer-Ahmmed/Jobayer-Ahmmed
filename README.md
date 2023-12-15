@@ -26,4 +26,4 @@
 
 🌱 I'm Currently Exploring - Redux
  
-🤝 Open to Collaboration- Any MERN Stack Projects or, Machine Learning Projects Using Python
+🤝 Open to Collaboration- Any MERN Stack Projects
